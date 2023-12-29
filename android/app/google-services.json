@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63570970649",
+    "project_id": "promo-7cbf0",
+    "storage_bucket": "promo-7cbf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63570970649:android:20e73dd5269b1201488288",
+        "android_client_info": {
+          "package_name": "com.example.lakme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusf_CuP1GB8gWDcz8u2rdnYt0knjOCrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
